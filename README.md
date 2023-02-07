@@ -1,1 +1,1 @@
-My first readme
+I am learning a lot through the ALX programme!
